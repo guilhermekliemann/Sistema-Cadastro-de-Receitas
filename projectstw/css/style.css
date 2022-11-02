@@ -1,0 +1,23 @@
+.img-home {
+    height: 660px;
+}
+
+.logo {
+    height: 60px;
+    width: 200px;
+}
+
+h1 {
+    color: #0092ce;
+    text-align: center;
+    margin-top: -40px;
+    padding-bottom: 15px;
+}
+
+tbody {
+    text-align: -webkit-center;
+}
+
+body {
+    background: #16577e;
+}
