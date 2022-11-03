@@ -9,3 +9,5 @@ O site tem as seguintes páginas:
 - Listar Receitas, que irá mostrar todas as receitas cadastradas no banco de dados, que terá as opção de visualizar os ingredientes em outra página, editar a receita (aqui consegui só fazer com que edite o nome da receita, eu até tinha conseguido fazer uma parte para adicionar novos ingredientes e excluir, porém tava dando muitos erros e acabei ficando sem tempo para finalizar), e também excluir receita, que irá excluir também o relacionamento com a tabela de ingredientes.
 - Novo Ingrediente, para cadastrar um ingrediente separado para deixar salvo no banco de dados.
 - Listar Ingredientes, irá listar todos os ingredientes salvos no banco de dados, aqui terá a opção de editar ingrediente (esse funcionou corretamente), e excluir ingrediente.
+
+Obs. - Eu fui mostrar o sistema pra minha namorada e acabei deixando criado sem querer um ingrediente chamado de emily (que é o nome dela).
